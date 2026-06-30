@@ -1,4 +1,4 @@
-# TOP 50 CORE JAVA SDET INTERVIEW QUESTIONS — SORTED BY DIFFICULTY
+# CORE JAVA SDET INTERVIEW QUESTIONS — SORTED BY DIFFICULTY
 > Ordered: Easy → Hard → Hardest  
 > Covers: Core Java · OOP · Collections · Exceptions · Concurrency · Java 8+ · Database · API/REST Assured · Selenium · JavaScript · JMeter · BDD · AI/LLM · Framework Design · SDET Lead Coding
 
